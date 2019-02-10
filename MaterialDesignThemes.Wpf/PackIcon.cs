@@ -10,7 +10,7 @@ using ControlzEx;
 namespace MaterialDesignThemes.Wpf
 {
     /// <summary>
-    /// Icon from the Material Design Icons project, <see cref="https://materialdesignicons.com/"/>.
+    /// Icon from the Material Design Icons project, <see href="https://materialdesignicons.com/"/>.
     /// </summary>
     public class PackIcon : PackIconBase<PackIconKind>
     {        

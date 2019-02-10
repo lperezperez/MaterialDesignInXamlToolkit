@@ -25,8 +25,6 @@ namespace MaterialDesignThemes.Wpf
         public const string ContentEmptyName = "ContentEmpty";
         public const string ContentNotEmptyName = "ContentNotEmpty";
 
-        private ContentControl _floatingHintPart = null;
-
         #region ManagedProperty
 
         public static readonly DependencyProperty HintProxyProperty = DependencyProperty.Register(
